@@ -1,7 +1,5 @@
 # ITU-Campus3D: A Campus-Scale Urban Mobile Mapping Benchmark for Semantic Segmentation
 
-[![Status](https://img.shields.io/badge/status-published-brightgreen)](https://doi.org/10.1109/ACCESS.2026.3682205)
-[![DOI](https://img.shields.io/badge/DOI-10.1109%2FACCESS.2026.3682205-blue)](https://doi.org/10.1109/ACCESS.2026.3682205)
 [![License](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Data Type](https://img.shields.io/badge/data-3D%20Point%20Cloud-green.svg)](https://github.com/aksuko/ITU-Campus3D)
 [![Task](https://img.shields.io/badge/task-Semantic%20Segmentation-orange.svg)](https://github.com/aksuko/ITU-Campus3D)
