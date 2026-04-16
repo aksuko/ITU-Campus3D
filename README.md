@@ -1,15 +1,11 @@
 # ITU-Campus3D: A Campus-Scale Urban Mobile Mapping Benchmark for Semantic Segmentation
 
-![Status](https://img.shields.io/badge/status-under_review-yellow)
-![License](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)
-![Data Type](https://img.shields.io/badge/data-3D%20Point%20Cloud-green.svg)
-![Task](https://img.shields.io/badge/task-Semantic%20Segmentation-orange.svg)
-![Point Cloud](https://img.shields.io/badge/modality-LiDAR-blue)
+[![Status](https://img.shields.io/badge/status-published-brightgreen)](https://doi.org/10.1109/ACCESS.2026.3682205)
+[![DOI](https://img.shields.io/badge/DOI-10.1109%2FACCESS.2026.3682205-blue)](https://doi.org/10.1109/ACCESS.2026.3682205)
+[![License](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Data Type](https://img.shields.io/badge/data-3D%20Point%20Cloud-green.svg)](https://github.com/aksuko/ITU-Campus3D)
+[![Task](https://img.shields.io/badge/task-Semantic%20Segmentation-orange.svg)](https://github.com/aksuko/ITU-Campus3D)
 
-
-> ⚠️ **Preview Dataset Disclaimer**
-> 
-> The data provided in this repository is a **limited preview subset** intended solely for peer-review inspection. The complete dataset, comprehensive annotations, benchmark splits, and evaluation protocols will be publicly released upon the acceptance of the associated publication.
 
 ---
 
@@ -95,9 +91,11 @@ The dataset is categorized into **10 semantic classes**, addressing a wide spect
 ## Dataset Access and Preview
 
 ### Full Dataset Access
-Access to the full ITU-Campus3D dataset is provided exclusively for academic and non-commercial research purposes. Researchers interested in using the dataset may request access by submitting the dataset request form.
 
-*Note: Approved applicants will receive detailed download instructions via email. The dataset request form will be made available after the manuscript is accepted and published.*
+To request access, please fill out the form below:
+
+**[Request Dataset Access](https://forms.gle/uyYhk84pwvfGnjui9)**
+
 
 ### Dataset Preview
 
@@ -123,7 +121,26 @@ ITU-Campus3D/
     └── 48_12.las     # Buffer tiles (*.las)
 ```
 
+## Citation
 
+If you use ITU-Campus3D in your research, please cite our paper:
+
+```bibtex
+@ARTICLE{11477876,
+  author={Aksu, Koray and Demirel, Hande and Alkan, Reha Metin and Yanalak, Mustafa},
+  journal={IEEE Access}, 
+  title={ITU-Campus3D: A Campus-Scale Urban Mobile Mapping Benchmark for Semantic Segmentation}, 
+  year={2026},
+  volume={14},
+  number={},
+  pages={1-20},
+  keywords={3D point cloud;campus environment;class imbalance;digital twin;mobile laser scanning;semantic segmentation;urban scene understanding},
+  doi={10.1109/ACCESS.2026.3682205}}
+
+```
+
+
+---
 
 ## License
 
@@ -131,4 +148,4 @@ The ITU-Campus3D dataset is released under the Creative Commons Attribution 4.0 
 
 ## Acknowledgments
 
-The study is supported by the Istanbul Technical University Scientific Research Projects Coordination Unit. (Production of High-Definition Maps (HD Maps) for Istanbul Technical University Ayazaga Campus Digital Road Infrastructure, Project ID: 43340, Project Code: MGA-2022-43340).
+This work was supported by Istanbul Technical University Scientific Research Projects Coordination Unit (Production of High-Definition Maps (HD Maps) for Istanbul Technical University Ayazaga Campus Digital Road Infrastructure under Project MGA-2022-43340).
