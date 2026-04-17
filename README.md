@@ -131,9 +131,10 @@ If you use ITU-Campus3D in your research, please cite our paper:
   year={2026},
   volume={14},
   number={},
-  pages={1-20},
+  pages={55621-55640},
   keywords={3D point cloud;campus environment;class imbalance;digital twin;mobile laser scanning;semantic segmentation;urban scene understanding},
   doi={10.1109/ACCESS.2026.3682205}}
+
 
 ```
 
